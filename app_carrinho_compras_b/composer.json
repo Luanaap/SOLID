@@ -1,0 +1,21 @@
+{
+    "name": "luanaandradepereira/app_carrinho_compras",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Luanaandradepereira\\AppCarrinhoCompras\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luanaap",
+            "email": "57630311+Luanaap@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
